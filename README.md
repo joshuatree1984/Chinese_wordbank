@@ -1,0 +1,2 @@
+# Chinese_wordbank
+用一组docx文件生成中文词云wordbank
