@@ -1,5 +1,5 @@
-# Chinese_wordbank_中文词云
-# 用一组docx文件生成中文词云wordbank,过滤掉标点符号和无意义的词。
+# Chinese_wordcloud_中文词云
+# 用一组docx文件生成中文词云wordcloud,过滤掉标点符号和无意义的词。
 # 自主选择字体和输出的图片大小
 # 需要fenci,jieba,worcloud,matplotlib等依赖库
 
